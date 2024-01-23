@@ -1,3 +1,5 @@
+// >>>> Calificación Eveida: 3/5
+
 const baseEndpoint = 'https://api.github.com';
 const usersEndpoint = `${baseEndpoint}/users`;
 const $n = document.querySelector('.name');
