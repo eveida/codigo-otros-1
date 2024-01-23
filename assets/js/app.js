@@ -1,4 +1,5 @@
-// >>>> Calificación Eveida: 3/5
+// >>>> Calificación Rocío Hernández: 5/5
+// >>>> Calificación David Romero : 4/5
 
 const baseEndpoint = 'https://api.github.com';
 const usersEndpoint = `${baseEndpoint}/users`;
